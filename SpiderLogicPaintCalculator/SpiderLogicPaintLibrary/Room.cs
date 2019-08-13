@@ -1,9 +1,12 @@
 ﻿using SpiderLogicPaintLibraryCommon.Interface;
+using SpiderLogicPaintLibraryCommon.Enum;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using SpiderLogicPaintLibraryCommon;
+using SpiderLogicPaintLibraryCommon.Dtos;
 
 namespace SpiderLogicPaintLibrary
 {
@@ -12,19 +15,23 @@ namespace SpiderLogicPaintLibrary
     /// </summary>
     public class Room : IPlace
     {
-        public Room(float length, float width, float windowscount, float doorscount)
-        {
 
+        public Room(RoomDto roomDto)
+        {
+            Length = roomDto.Length;
+            Width = roomDto.Width;
+            NumberOfWindows = roomDto.NumberOfWindows;
+            NumberOfDoors = roomDto.NumberOfDoors;
         }
         /// <summary>
         /// Wall Lenth
         /// </summary>
-        public float Lenth { get; set; }
+        public double Length { get; set; }
 
         /// <summary>
         /// Wall Width
         /// </summary>
-        public float Width { get; set; }
+        public double Width { get; set; }
 
         /// <summary>
         /// Number Of Windows      
@@ -43,7 +50,7 @@ namespace SpiderLogicPaintLibrary
         public double calculateArea()
         {
             double area = 0;
-            area = ((2 * Lenth +2 * Width) * 9) - (NumberOfWindows * 3 * 4) -(NumberOfDoors * 7 * 3.5);
+            area = ((2 * Length +2 * Width) * 9) - (NumberOfWindows * 3 * 4) -(NumberOfDoors * 7 * 3.5);
             return area;
         }
 
@@ -51,9 +58,19 @@ namespace SpiderLogicPaintLibrary
         /// Calculate Painting Cost of Room
         /// </summary>
         /// <returns></returns>
-        public float calculateCost()
+        public double calculateCost(double area, System.Enum typeofpaint)
         {
-            throw new NotImplementedException();
+            double cost = 0;
+            double paintrate = 0;
+            if (TypeOfWallPaint.WallPaint1 == (TypeOfWallPaint)typeofpaint) {
+                paintrate = Constants.WALL_PAINT1;
+            } else if (TypeOfWallPaint.WallPaint2 == (TypeOfWallPaint)typeofpaint)
+            {
+                paintrate = Constants.WALL_PAINT2;
+            }
+            cost = area * paintrate;
+            return cost;
+            
         }
     }
 }

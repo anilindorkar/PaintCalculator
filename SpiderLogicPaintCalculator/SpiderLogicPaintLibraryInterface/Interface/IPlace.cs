@@ -12,6 +12,6 @@ namespace SpiderLogicPaintLibraryCommon.Interface
     public interface IPlace
     {
         double calculateArea();
-        float calculateCost();
+        double calculateCost(double area, System.Enum typeofpaint);
     }
 }

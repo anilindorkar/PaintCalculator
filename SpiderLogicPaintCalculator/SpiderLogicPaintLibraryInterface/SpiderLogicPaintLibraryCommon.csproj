@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Constants.cs" />
+    <Compile Include="Dtos\RoomDto.cs" />
     <Compile Include="Enum\TypeOfCeilingPaint.cs" />
     <Compile Include="Interface\IPlace.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

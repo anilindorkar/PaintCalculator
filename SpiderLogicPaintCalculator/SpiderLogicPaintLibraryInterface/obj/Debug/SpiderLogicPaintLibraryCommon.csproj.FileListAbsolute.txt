@@ -3,3 +3,4 @@ C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryInt
 C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryInterface\obj\Debug\SpiderLogicPaintLibraryCommon.csproj.CoreCompileInputs.cache
 C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryInterface\obj\Debug\SpiderLogicPaintLibraryCommon.dll
 C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryInterface\obj\Debug\SpiderLogicPaintLibraryCommon.pdb
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryInterface\obj\Debug\SpiderLogicPaintLibraryCommon.csprojAssemblyReference.cache
