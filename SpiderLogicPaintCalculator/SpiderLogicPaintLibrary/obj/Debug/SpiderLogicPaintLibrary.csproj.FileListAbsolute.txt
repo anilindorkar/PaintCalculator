@@ -1,0 +1,9 @@
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary\obj\Debug\SpiderLogicPaintLibrary.csprojAssemblyReference.cache
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary\obj\Debug\SpiderLogicPaintLibrary.csproj.CoreCompileInputs.cache
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary\bin\Debug\SpiderLogicPaintLibrary.dll
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary\bin\Debug\SpiderLogicPaintLibrary.pdb
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary\bin\Debug\SpiderLogicPaintLibraryCommon.dll
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary\bin\Debug\SpiderLogicPaintLibraryCommon.pdb
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary\obj\Debug\SpiderLogicPaintLibrary.csproj.CopyComplete
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary\obj\Debug\SpiderLogicPaintLibrary.dll
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary\obj\Debug\SpiderLogicPaintLibrary.pdb

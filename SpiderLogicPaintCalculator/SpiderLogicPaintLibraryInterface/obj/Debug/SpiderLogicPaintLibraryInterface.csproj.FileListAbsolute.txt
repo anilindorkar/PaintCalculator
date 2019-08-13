@@ -1,0 +1,6 @@
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryInterface\bin\Debug\SpiderLogicPaintLibraryInterface.dll
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryInterface\bin\Debug\SpiderLogicPaintLibraryInterface.pdb
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryInterface\obj\Debug\SpiderLogicPaintLibraryInterface.csprojAssemblyReference.cache
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryInterface\obj\Debug\SpiderLogicPaintLibraryInterface.csproj.CoreCompileInputs.cache
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryInterface\obj\Debug\SpiderLogicPaintLibraryInterface.dll
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryInterface\obj\Debug\SpiderLogicPaintLibraryInterface.pdb

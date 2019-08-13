@@ -1,0 +1,12 @@
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\obj\Debug\SpiderLogicPaintLibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\bin\Debug\SpiderLogicPaintLibraryApp.exe.config
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\bin\Debug\SpiderLogicPaintLibraryApp.exe
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\bin\Debug\SpiderLogicPaintLibraryApp.pdb
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\bin\Debug\SpiderLogicPaintLibrary.dll
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\bin\Debug\SpiderLogicPaintLibraryCommon.dll
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\bin\Debug\SpiderLogicPaintLibraryCommon.pdb
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\bin\Debug\SpiderLogicPaintLibrary.pdb
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\obj\Debug\SpiderLogicPaintLibraryApp.csprojAssemblyReference.cache
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\obj\Debug\SpiderLogicPaintLibraryApp.csproj.CopyComplete
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\obj\Debug\SpiderLogicPaintLibraryApp.exe
+C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\obj\Debug\SpiderLogicPaintLibraryApp.pdb

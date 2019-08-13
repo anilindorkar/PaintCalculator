@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiderLogicPaintLibraryCommon", "SpiderLogicPaintLibraryInterface\SpiderLogicPaintLibraryCommon.csproj", "{156A78FF-0DF2-4C43-870F-ABD1E715761E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiderLogicPaintLibrary", "SpiderLogicPaintLibrary\SpiderLogicPaintLibrary.csproj", "{E856B4E9-38C9-48F1-9FB1-0BA645AEAB7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiderLogicPaintLibraryApp", "SpiderLogicPaintLibraryApp\SpiderLogicPaintLibraryApp.csproj", "{1F2C8045-246F-4544-BB03-D546D9A12210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{156A78FF-0DF2-4C43-870F-ABD1E715761E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156A78FF-0DF2-4C43-870F-ABD1E715761E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156A78FF-0DF2-4C43-870F-ABD1E715761E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156A78FF-0DF2-4C43-870F-ABD1E715761E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E856B4E9-38C9-48F1-9FB1-0BA645AEAB7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E856B4E9-38C9-48F1-9FB1-0BA645AEAB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E856B4E9-38C9-48F1-9FB1-0BA645AEAB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E856B4E9-38C9-48F1-9FB1-0BA645AEAB7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F2C8045-246F-4544-BB03-D546D9A12210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2C8045-246F-4544-BB03-D546D9A12210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2C8045-246F-4544-BB03-D546D9A12210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2C8045-246F-4544-BB03-D546D9A12210}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5ECD76E-B176-49AC-9EB7-124B1A8D5E6C}
+	EndGlobalSection
+EndGlobal
