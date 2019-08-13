@@ -1,0 +1,16 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary.Tests\obj\Debug\SpiderLogicPaintLibrary.Tests.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary.Tests\bin\Debug\nunit.engine.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary.Tests\bin\Debug\SpiderLogicPaintLibrary.Tests.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary.Tests\bin\Debug\SpiderLogicPaintLibrary.Tests.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary.Tests\bin\Debug\nunit.framework.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary.Tests\bin\Debug\SpiderLogicPaintLibrary.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary.Tests\bin\Debug\SpiderLogicPaintLibraryCommon.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary.Tests\bin\Debug\SpiderLogicPaintLibraryCommon.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary.Tests\bin\Debug\SpiderLogicPaintLibrary.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary.Tests\bin\Debug\nunit.framework.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary.Tests\obj\Debug\SpiderLogicPaintLibrary.Tests.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibrary.Tests\obj\Debug\SpiderLogicPaintLibrary.Tests.pdb

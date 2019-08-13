@@ -1,6 +1,7 @@
 ﻿using SpiderLogicPaintLibraryCommon;
 using SpiderLogicPaintLibraryCommon.Enum;
 using SpiderLogicPaintLibraryCommon.Interface;
+using System;
 
 namespace SpiderLogicPaintLibrary
 {
@@ -57,6 +58,8 @@ namespace SpiderLogicPaintLibrary
             }
             //The grill area is 15% of the Windo size.
             cost = (area*0.15) * paintrate;
+            //Console.WriteLine("Grill Cost : {0}", cost);
+
             return cost;
         }
     }

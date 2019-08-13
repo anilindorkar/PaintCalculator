@@ -11,7 +11,7 @@ namespace SpiderLogicPaintLibraryApp
         static void Main(string[] args)
         {
             // Room Input for Paint Cost.
-            RoomModel roomModel = new RoomModel() { WallPaintType = TypeOfWallPaint.WallPaint1, CeilingPaintType = TypeOfCeilingPaint.CeilingPaint2, GrillPaintType = TypeOfGrillPaint.GrillPaint1, NumberOfRooms = 2 };
+            RoomModel roomModel = new RoomModel() { WallPaintType = TypeOfWallPaint.WallPaint2, CeilingPaintType = TypeOfCeilingPaint.CeilingPaint1, GrillPaintType = TypeOfGrillPaint.GrillPaint2, NumberOfRooms = 2 };
             roomModel.RoomList = new List<SpiderLogicPaintLibraryCommon.Dtos.RoomDto>();
             roomModel.RoomList.Add(new SpiderLogicPaintLibraryCommon.Dtos.RoomDto() { Length = 10, NumberOfDoors = 2, NumberOfWindows = 4, Width = 1, CeilingLength = 10, CeilingWidth = 9 });
             roomModel.RoomList.Add(new SpiderLogicPaintLibraryCommon.Dtos.RoomDto() { Length = 10, NumberOfDoors = 2, NumberOfWindows = 2, Width = 1, CeilingLength = 10, CeilingWidth = 9 });
@@ -88,20 +88,21 @@ namespace SpiderLogicPaintLibraryApp
                     #endregion
                 }
 
-
-
                 #region Output-Result 
-                Console.WriteLine("The Wall Area is {0}.", totalWallArea);
-                Console.WriteLine("The Wall Paint Cost is ₹{0}.", totalWallAreaPaintCost);
+                Console.WriteLine("===================================");
+                Console.WriteLine("             Paint Cost            ");
+                Console.WriteLine("===================================");
+                //Console.WriteLine("The Wall Area is {0}.", totalWallArea);
+                Console.WriteLine("The Wall Paint Cost is ${0}.", totalWallAreaPaintCost);
 
-                Console.WriteLine("The Grill Area is {0}.", totalGrillArea);
-                Console.WriteLine("The Grill Paint Cost is ₹{0}.", totalGrillAreaPaint);
+                //Console.WriteLine("The Grill Area is {0}.", totalGrillArea);
+                Console.WriteLine("The Grill Paint Cost is ${0}.", totalGrillAreaPaint);
 
-                Console.WriteLine("The Ceiling Area is {0}.", totalCeilingArea);
-                Console.WriteLine("The Ceiling Paint Cost is ₹{0}.", totalCeilingAreaPaintCost);
+                //Console.WriteLine("The Ceiling Area is {0}.", totalCeilingArea);
+                Console.WriteLine("The Ceiling Paint Cost is ${0}.", totalCeilingAreaPaintCost);
 
                 Console.WriteLine("===================================");
-                Console.WriteLine("Total Paint Cost : ₹{0}", (totalWallAreaPaintCost + totalGrillAreaPaint + totalCeilingAreaPaintCost));
+                Console.WriteLine("Total Paint Cost : ${0}", (totalWallAreaPaintCost + totalGrillAreaPaint + totalCeilingAreaPaintCost));
                 Console.WriteLine("===================================");
                 #endregion             
 

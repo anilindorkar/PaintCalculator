@@ -1,6 +1,7 @@
 ﻿using SpiderLogicPaintLibraryCommon;
 using SpiderLogicPaintLibraryCommon.Enum;
 using SpiderLogicPaintLibraryCommon.Interface;
+using System;
 
 namespace SpiderLogicPaintLibrary
 {
@@ -56,6 +57,7 @@ namespace SpiderLogicPaintLibrary
             }
             
             cost = area * paintrate;
+            //Console.WriteLine("Ceiling Cost : {0}", cost);
             return cost;
 
         }
