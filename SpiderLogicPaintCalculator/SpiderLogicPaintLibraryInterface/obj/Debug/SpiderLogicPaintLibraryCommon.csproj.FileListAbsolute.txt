@@ -4,3 +4,8 @@ C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryInt
 C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryInterface\obj\Debug\SpiderLogicPaintLibraryCommon.dll
 C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryInterface\obj\Debug\SpiderLogicPaintLibraryCommon.pdb
 C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryInterface\obj\Debug\SpiderLogicPaintLibraryCommon.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryInterface\bin\Debug\SpiderLogicPaintLibraryCommon.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryInterface\bin\Debug\SpiderLogicPaintLibraryCommon.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryInterface\obj\Debug\SpiderLogicPaintLibraryCommon.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryInterface\obj\Debug\SpiderLogicPaintLibraryCommon.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryInterface\obj\Debug\SpiderLogicPaintLibraryCommon.pdb

@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SpiderLogicPaintLibraryCommon.Interface
+﻿namespace SpiderLogicPaintLibraryCommon.Interface
 {
     /// <summary>
     /// Place interface to find the Area and Paiting Cost declaration.

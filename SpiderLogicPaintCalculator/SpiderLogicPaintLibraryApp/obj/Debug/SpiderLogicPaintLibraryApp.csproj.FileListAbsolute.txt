@@ -10,3 +10,13 @@ C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp
 C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\obj\Debug\SpiderLogicPaintLibraryApp.csproj.CopyComplete
 C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\obj\Debug\SpiderLogicPaintLibraryApp.exe
 C:\Users\anil\source\repos\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\obj\Debug\SpiderLogicPaintLibraryApp.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\bin\Debug\SpiderLogicPaintLibraryApp.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\obj\Debug\SpiderLogicPaintLibraryApp.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\obj\Debug\SpiderLogicPaintLibraryApp.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\bin\Debug\SpiderLogicPaintLibraryApp.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\bin\Debug\SpiderLogicPaintLibraryApp.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\bin\Debug\SpiderLogicPaintLibrary.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\bin\Debug\SpiderLogicPaintLibraryCommon.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\bin\Debug\SpiderLogicPaintLibraryCommon.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\bin\Debug\SpiderLogicPaintLibrary.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\PaintCalculator\SpiderLogicPaintCalculator\SpiderLogicPaintLibraryApp\obj\Debug\SpiderLogicPaintLibraryApp.csprojResolveAssemblyReference.cache
